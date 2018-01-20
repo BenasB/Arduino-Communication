@@ -13,4 +13,4 @@ The whole system relies on commands being sent to the arduino from the applicati
 * #CLEAR - clears the LCD
 * #DIG_PINNUMBER_VALUE - writes a value on a digital pin (does digitalWrite). Value must be either 1 or 0.
 
-[Check out this video](https://www.youtube.com/watch?v=i9DpcGDTnBk) for the demonstration
+[![Demonstration](https://img.youtube.com/vi/i9DpcGDTnBk/0.jpg)](https://www.youtube.com/watch?v=i9DpcGDTnBk)
