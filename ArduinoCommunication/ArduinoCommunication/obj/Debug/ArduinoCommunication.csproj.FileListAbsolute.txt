@@ -1,0 +1,11 @@
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe.config
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\bin\Debug\ArduinoCommunication.pdb
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.Properties.Resources.resources
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csproj.GenerateResource.Cache
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.exe
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.pdb
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.ConnectionForm.resources
+C:\Users\Benas-Temp\Programming\Csharp\ArduinoCommunication\ArduinoCommunication\obj\Debug\ArduinoCommunication.MainForm.resources
