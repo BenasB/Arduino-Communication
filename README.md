@@ -11,6 +11,7 @@ I got my arduino hooked up to a 16x2 LCD (through I2C) and 2 LEDs
 * #END - indicates that the applciation had disconnected
 * #CLEAR - clears the LCD
 * #DIG_PINNUMBER_VALUE - writes a value on a digital pin (does digitalWrite). Value must be either 1 or 0.
+* If the message doesn't start with either one of the strings from this list, it is displayed on the LCD.
 
 #### Click on the image to check out a demo
 [![Demonstration](https://img.youtube.com/vi/i9DpcGDTnBk/0.jpg)](https://www.youtube.com/watch?v=i9DpcGDTnBk)
