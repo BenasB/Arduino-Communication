@@ -1,6 +1,8 @@
 # Arduino-Communication
 A simple program that allows a Windows Forms application to communicate with an arduino
 
+[Press here](https://www.dropbox.com/s/w82zkf3pgwupl6s/ArduinoCommunication.exe?dl=0) if you want to download the .exe
+
 You can:
 * Send text and display it on the LCD
 * Set the value of wanted digital pin
